@@ -16,3 +16,6 @@ A creative technologist on a path to hardcore development with data science.
 **Relational db**
 
 - Neo4j in Action
+
+**Misc. Links**
+- [Searchable Ruby Docs](https://rubydocs.org/)
