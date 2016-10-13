@@ -9,6 +9,8 @@ A creative technologist on a path to hardcore development with data science.
 - Text Processing with Ruby
 - Rails 4 in Action: Revised Edition of Rails 3 in Action
 - Learn Ruby the Hard Way 3rd ed.
+
+**Algorithms**
 - Computer Science Programming Basics in Ruby
 
 **Relational db**
